@@ -107,13 +107,15 @@ Reviewing the data, it is important to recognize that arr_delay -- or selected r
 This means that our final data set looks as follows where each row contains delay data for a specific airport and airline for the year. Our downsizing leaves a data set of 313 rows and 15 variables: 
 
 ```{r}
-keeps = c("IATA_CODE","carrier","carrier_name","arr_flights","carrier_ct","weather_ct","nas_ct","security_ct","late_aircraft_ct","arr_delay","AIRPORT","CITY","STATE","LATITUDE","LONGITUDE")
-busiest = busiest[keeps]
+keeps = c("month","IATA_CODE","carrier","carrier_name","arr_flights","carrier_ct","weather_ct","nas_ct","security_ct","late_aircraft_ct","arr_delay","AIRPORT","CITY","STATE","LATITUDE","LONGITUDE")
+finaldata = busiest[keeps]
 
-library(dplyr)
-finaldata = busiest %>%
-  group_by(IATA_CODE,carrier) %>%
-  summarize(carrier_name = carrier_name[1], arr_flights = sum(arr_flights), carrier_ct = sum(carrier_ct),weather_ct = sum(weather_ct), nas_ct = sum(nas_ct),security_ct = sum(security_ct), late_aircraft_ct = sum(late_aircraft_ct), arr_delay = sum(arr_delay), AIRPORT = AIRPORT[1],CITY = CITY[1], STATE = STATE[1], LATITUDE = LATITUDE[1], LONGITUDE = LONGITUDE[1])
+detach(busiest)
+attach(finaldata)
+#library(dplyr)
+#finaldata = busiest %>%
+#  group_by(IATA_CODE,carrier) %>%
+#  summarize(carrier_name = carrier_name[1], arr_flights = sum(arr_flights), carrier_ct = sum(carrier_ct),weather_ct = sum(weather_ct), nas_ct = sum(nas_ct),security_ct = sum(security_ct), late_aircraft_ct = sum(late_aircraft_ct), arr_delay = sum(arr_delay), AIRPORT = AIRPORT[1],CITY = CITY[1], STATE = STATE[1], LATITUDE = LATITUDE[1], LONGITUDE = LONGITUDE[1])
 
 knitr::kable(finaldata)
 
@@ -124,6 +126,115 @@ knitr::kable(dim(finaldata))
 ## About these data and experimental design
 
 The data used in this study were not collected as part of a designed experiment. They are purely observational data as self-reported by the air carriers to the U.S. Government. The causes of each delay described in the data were self selected by the air carriers. Therefore, this data cannot be used to draw experimental inferences associated with the cause of airport delays and do not necessarily represent the results that would be obtained for other populations -- in this case airlines operating from this set of airports. Any inferences could inform the need for more robust data collection and/or additional studies using more well designed approaches. 
+
+
+## Profile Plots of the Data
+
+
+```{r}
+mysummary<-function(x){
+result<-c(length(x),min(x), max(x), IQR(x), mean(x),sd(x),sd(x)/length(x))
+names(result)<-c("N","Min","Max","IQR","Mean","SD","SE")
+return(result)
+}
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData,mysummary)
+sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
+
+
+ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none")
+```
+
+This profile plot incorporates the carrier and airport as categorical variables, with Arrival Delay as our response. It is, however, a bit too messy to read. We can get a sense of the individual profiles by looking at one category at a time for a set of the airports. 
+
+```{r}
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "ATL"),],mysummary)
+sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
+
+
+ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none") + ggtitle("Profile Plot with standard deviations for Atlanta (ATL)")
+
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "DFW"),],mysummary)
+sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
+
+
+ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none") + ggtitle("Profile Plot with standard deviations for Dallas-Fort Worth (DFW)")
+
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "LAX"),],mysummary)
+sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
+
+
+ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none") + ggtitle("Profile Plot with standard deviations for Los Angeles International (LAX)")
+
+```
+
+
+## Building a Train and Test Set to Support Cross Validation
+
+For these data, we will use a Train / Test split of 70%-30%. The below code accomplishes that split. 
+
+```{r,echo=T}
+set.seed(1234)
+index<-sample(1:dim(finaldata)[1],round(dim(finaldata)[1]*0.70),replace=F)
+train<-finaldata[index,]
+test<-finaldata[-index,]
+
+```
+
+## Training and testing our model
+
+Let's use the provided prediction function from Homework 2: 
+
+```{r, echo=T}
+#Really handy predict function
+predict.regsubsets =function (object , newdata ,id ,...){
+  form=as.formula (object$call [[2]])
+  mat=model.matrix(form ,newdata )
+  coefi=coef(object ,id=id)
+  xvars=names(coefi)
+  mat[,xvars]%*%coefi
+}
+```
+
+Train a model: 
+
+```{r}
+library(leaps)
+reg.fwd=regsubsets(arr_delay~carrier+arr_flights+IATA_CODE+carrier_ct+weather_ct+nas_ct+security_ct+late_aircraft_ct,data=train,method="forward",nvmax=9)
+
+summary(reg.fwd)$adjr2
+summary(reg.fwd)$rss
+summary(reg.fwd)$bic
+
+
+par(mfrow=c(1,3))
+bics<-summary(reg.fwd)$bic
+plot(1:9,bics,type="l",ylab="BIC",xlab="# of predictors")
+index<-which(bics==min(bics))
+points(index,bics[index],col="red",pch=10)
+
+adjr2<-summary(reg.fwd)$adjr2
+plot(1:9,adjr2,type="l",ylab="Adjusted R-squared",xlab="# of predictors")
+index<-which(adjr2==max(adjr2))
+points(index,adjr2[index],col="red",pch=10)
+
+rss<-summary(reg.fwd)$rss
+plot(1:9,rss,type="l",ylab="train RSS",xlab="# of predictors")
+index<-which(rss==min(rss))
+points(index,rss[index],col="red",pch=10)
+
+testASE<-c()
+#note my index is to 20 since that what I set it in regsubsets
+for (i in 1:9){
+  predictions<-predict.regsubsets(object=reg.fwd,newdata=test,id=i) 
+  testASE[i]<-mean(test$arr_delay-predictions^2)
+}
+par(mfrow=c(1,1))
+plot(1:9,testASE,type="l",xlab="# of predictors",ylab="test vs train ASE")
+index<-which(testASE==min(testASE))
+points(index,testASE[index],col="red",pch=10)
+rss<-summary(reg.fwd)$rss
+lines(1:9,rss/dim(test)[1],lty=3,col="blue")  #Dividing by 100 since ASE=RSS/sample size
+```
 
 
 

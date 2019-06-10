@@ -61,7 +61,7 @@ As is shown by the sample above, each record was for a specific airport, airline
 Rather than just using the number of arriving flights -- which is contained within the data set -- as an indication of the busiest airports, we used an internet reference indicating the busiest airports in 2018. This was derived from: According to: https://www.tripsavvy.com/busiest-airports-in-the-usa-3301020
 
 ```{r}
-busiest = data.frame(c("ATL","ORD","LAX","DFW","JFK","DEN","SFO","LAS","PHX","IAH","CLT","MIA","MCO","EWR","SEA","MSP","DTW","PHL","BOS","LGA","FLL","BWI","IAD","SLC","MDW"))
+busiest = data.frame(c("ATL","ORD","LAX","DFW","JFK"))#,"DEN","SFO","LAS","PHX","IAH","CLT","MIA","MCO","EWR","SEA","MSP","DTW","PHL","BOS","LGA","FLL","BWI","IAD","SLC","MDW"))
 names(busiest) = c("IATA_CODE")
 busiest = merge(busiest,arrivalData,by.x = "IATA_CODE",by.y="IATA_CODE")
 
@@ -112,7 +112,7 @@ finaldata = busiest[keeps]
 
 detach(busiest)
 attach(finaldata)
-#library(dplyr)
+library(dplyr)
 #finaldata = busiest %>%
 #  group_by(IATA_CODE,carrier) %>%
 #  summarize(carrier_name = carrier_name[1], arr_flights = sum(arr_flights), carrier_ct = sum(carrier_ct),weather_ct = sum(weather_ct), nas_ct = sum(nas_ct),security_ct = sum(security_ct), late_aircraft_ct = sum(late_aircraft_ct), arr_delay = sum(arr_delay), AIRPORT = AIRPORT[1],CITY = CITY[1], STATE = STATE[1], LATITUDE = LATITUDE[1], LONGITUDE = LONGITUDE[1])
@@ -137,7 +137,7 @@ result<-c(length(x),min(x), max(x), IQR(x), mean(x),sd(x),sd(x)/length(x))
 names(result)<-c("N","Min","Max","IQR","Mean","SD","SE")
 return(result)
 }
-sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData,mysummary)
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=finaldata,mysummary)
 sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
 
 
@@ -147,19 +147,19 @@ ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("
 This profile plot incorporates the carrier and airport as categorical variables, with Arrival Delay as our response. It is, however, a bit too messy to read. We can get a sense of the individual profiles by looking at one category at a time for a set of the airports. 
 
 ```{r}
-sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "ATL"),],mysummary)
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=finaldata[which(finaldata$IATA_CODE == "ATL"),],mysummary)
 sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
 
 
 ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none") + ggtitle("Profile Plot with standard deviations for Atlanta (ATL)")
 
-sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "DFW"),],mysummary)
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=finaldata[which(finaldata$IATA_CODE == "DFW"),],mysummary)
 sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
 
 
 ggplot(sumstats,aes(x=carrier,y=Mean,group=IATA_CODE, colour=IATA_CODE))+ ylab("Arrival Delay in Minutes")+ geom_line()+ geom_point()+ geom_errorbar(aes(ymin=Mean-SD, ymax=Mean+SD),width=.1) + theme(legend.position = "none") + ggtitle("Profile Plot with standard deviations for Dallas-Fort Worth (DFW)")
 
-sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=arrivalData[which(arrivalData$IATA_CODE == "LAX"),],mysummary)
+sumstats<-aggregate(log(arr_delay)~carrier*IATA_CODE,data=finaldata[which(finaldata$IATA_CODE == "LAX"),],mysummary)
 sumstats<-cbind(sumstats[,1:2],sumstats[,-(1:2)])
 
 

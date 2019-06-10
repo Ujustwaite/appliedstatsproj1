@@ -1,0 +1,744 @@
+"month","IATA_CODE","carrier","carrier_name","arr_flights","carrier_ct","weather_ct","nas_ct","security_ct","late_aircraft_ct","arr_delay","AIRPORT","CITY","STATE","LATITUDE","LONGITUDE"
+1,"ATL","EV","ExpressJet Airlines Inc.",905,46.82,0,48.93,0,102.26,17115,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","YX","Republic Airline",409,12.19,0.86,24.55,0,30.4,2989,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","EV","ExpressJet Airlines Inc.",1147,66.99,0,52.69,0,99.33,16061,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","AA","American Airlines Inc.",956,64.22,5.08,40.49,1.27,41.94,8794,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","B6","JetBlue Airways",292,50.36,1.03,26.94,1.75,31.92,6932,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","EV","ExpressJet Airlines Inc.",560,22.81,0,14.08,0,48.12,6974,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","EV","ExpressJet Airlines Inc.",1204,87.3,0,67.74,0,112.96,24920,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","YX","Republic Airline",385,18.02,0.4,19.76,0,14.83,2799,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","UA","United Air Lines Inc.",441,26.99,4.29,45.08,0,32.64,7514,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","MQ","Envoy Air",55,0.54,1.7,5.82,0,4.93,479,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","YV","Mesa Airlines Inc.",178,16,0,3,0,8,1624,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","AS","Alaska Airlines Inc.",63,1.55,0,4.21,0,3.24,299,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","AA","American Airlines Inc.",1002,93.5,10.83,96.86,2,77.81,18130,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","OO","SkyWest Airlines Inc.",1932,59.58,7.34,92.95,0,163.12,19001,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","AA","American Airlines Inc.",1008,62.44,10.66,85.59,0.2,68.11,14605,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","F9","Frontier Airlines Inc.",293,19.45,0.04,10.95,0,34.57,6644,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","NK","Spirit Air Lines",693,13.26,1.65,44.83,0,12.25,3536,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","OH","PSA Airlines Inc.",112,9.6,3.63,5.5,0,8.28,1680,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","9E","Endeavor Air Inc.",1834,68.24,19.87,82.68,0,170.22,35797,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","OO","SkyWest Airlines Inc.",2115,99.39,31.22,124.11,0,366.28,62234,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","AS","Alaska Airlines Inc.",28,1.89,0,2.11,0,0,225,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","AS","Alaska Airlines Inc.",52,1.35,0,0.65,0,1,112,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","9E","Endeavor Air Inc.",2032,40.53,15.3,88.16,0,142.01,17490,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","DL","Delta Air Lines Inc.",21208,592.53,72.96,768.96,3.14,697.4,117864,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","OO","SkyWest Airlines Inc.",1850,46.83,42.05,187.87,1.11,251.14,39550,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","OO","SkyWest Airlines Inc.",1858,72.78,10.77,93.19,0,191.26,35927,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","WN","Southwest Airlines Co.",3585,145.39,1.26,135.63,1.67,188.05,20946,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","B6","JetBlue Airways",290,20.68,1.76,14.93,0,18.62,2869,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","MQ","Envoy Air",56,1.09,0.79,2.46,0,1.67,224,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","F9","Frontier Airlines Inc.",279,21.1,0,12.98,0,34.92,4035,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","OO","SkyWest Airlines Inc.",2147,82.43,11.03,150.12,0.17,196.25,31722,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","UA","United Air Lines Inc.",444,15.02,2.51,12.99,0,19.48,2700,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","F9","Frontier Airlines Inc.",252,15.38,0,12.63,0,21.99,3850,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","AA","American Airlines Inc.",1014,116.01,14.54,95.68,1,89.77,20483,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","F9","Frontier Airlines Inc.",303,30.41,0.04,36.37,0,43.18,7587,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","OH","PSA Airlines Inc.",102,5.75,3.5,9.26,0,4.5,2149,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","WN","Southwest Airlines Co.",3488,214.15,36.91,268.43,3.89,300.61,52626,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","AA","American Airlines Inc.",963,68.53,5.88,79.5,2.46,52.62,12035,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","YX","Republic Airline",477,20.26,2.41,34.76,0,31.57,4203,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","DL","Delta Air Lines Inc.",19038,626.11,178.39,939.91,0,917.58,240743,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","WN","Southwest Airlines Co.",3588,236.83,34.84,241.83,4.35,310.15,52388,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","NK","Spirit Air Lines",737,14.48,3.14,143,0.06,13.33,12118,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","DL","Delta Air Lines Inc.",17790,513.88,77.4,637.7,1.7,631.31,143740,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","YX","Republic Airline",372,18.68,6.8,33.44,0,24.08,4744,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","MQ","Envoy Air",78,4.34,1.99,18.21,0,5.46,2179,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","YX","Republic Airline",416,11.98,3.25,34.71,0,19.07,3432,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","NK","Spirit Air Lines",762,33.02,5.93,99.05,0,45.99,16282,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","EV","ExpressJet Airlines Inc.",791,31.56,0,18.44,0,73,13742,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","MQ","Envoy Air",57,1,0,6.33,0,5.67,453,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","F9","Frontier Airlines Inc.",312,36,1.36,30.04,0,38.61,8299,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","AS","Alaska Airlines Inc.",52,2.83,0,5.74,0,0.43,287,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","NK","Spirit Air Lines",683,20.3,3.91,76.82,0,21.97,7799,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","B6","JetBlue Airways",288,35.11,5.44,18.38,0,18.07,4755,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","AS","Alaska Airlines Inc.",51,0,0,1,0,0,17,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","DL","Delta Air Lines Inc.",19224,527.28,71.79,745.58,0.97,633.39,114809,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","MQ","Envoy Air",53,1.74,0,4.83,0,4.43,560,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","AA","American Airlines Inc.",930,51.6,5.07,50.15,0.15,38.02,7636,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","EV","ExpressJet Airlines Inc.",518,15.14,0,20.17,0,42.69,5450,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","AA","American Airlines Inc.",964,73.55,17.68,96.71,0.21,71.85,15251,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","MQ","Envoy Air",53,3.62,0,4.06,0,3.33,534,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","9E","Endeavor Air Inc.",2312,75.7,29.48,145.3,0,228.53,51054,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","AA","American Airlines Inc.",1032,72.23,7.16,68.13,0.07,66.4,12882,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","F9","Frontier Airlines Inc.",243,13.49,0,11.21,0,33.3,4541,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","9E","Endeavor Air Inc.",3144,101.09,22.44,134.91,1,328.56,52771,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","F9","Frontier Airlines Inc.",324,23.04,1.24,36.01,0,28.71,4975,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","MQ","Envoy Air",51,0.92,0.14,6.09,0,6.85,839,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","OH","PSA Airlines Inc.",103,8.69,0.57,13.44,0,7.29,1344,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","WN","Southwest Airlines Co.",3643,207.05,37.18,236.83,3.34,258.61,44650,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","MQ","Envoy Air",27,0,0,1,0,0,28,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","B6","JetBlue Airways",265,29.61,1.58,12.43,0,11.38,3011,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","OO","SkyWest Airlines Inc.",1832,67.61,21.07,94.52,0,131.81,22936,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","YX","Republic Airline",297,10.95,5.45,34.27,0,8.34,4119,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","OO","SkyWest Airlines Inc.",2269,70.55,34.77,117.21,0,211.46,33935,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","AA","American Airlines Inc.",1029,92.27,8.22,79.6,1.01,51.89,10847,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","OO","SkyWest Airlines Inc.",1869,41.62,9.33,91.45,0,100.61,15321,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","OH","PSA Airlines Inc.",111,7.18,0,6.46,0,3.36,716,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","MQ","Envoy Air",56,1.29,2.51,4.61,0,3.59,649,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","EV","ExpressJet Airlines Inc.",150,15.54,0,13.62,0,16.84,7990,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","AA","American Airlines Inc.",1001,67,6.5,107.36,1,60.14,12535,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","YV","Mesa Airlines Inc.",191,12,7,18,0,10,2972,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","NK","Spirit Air Lines",668,3.47,0,105.55,0,3.98,8462,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","EV","ExpressJet Airlines Inc.",1001,58.94,0,44.71,0,96.35,14688,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","WN","Southwest Airlines Co.",3465,245.97,7.29,170.16,3.32,314.26,33444,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","YX","Republic Airline",382,8.88,7.33,31.48,0.29,22.01,3497,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","UA","United Air Lines Inc.",358,17.36,3.58,41.27,0,31.78,5062,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","YV","Mesa Airlines Inc.",190,26,4,14,1,8,4702,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","9E","Endeavor Air Inc.",2294,59.06,7.9,130.1,0,161.94,24057,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","DL","Delta Air Lines Inc.",21029,1026.09,188.33,1515.76,2.36,1443.45,370937,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","9E","Endeavor Air Inc.",2466,55.88,30.18,136.75,0.02,157.18,31302,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","F9","Frontier Airlines Inc.",248,22.92,0,14.84,0,28.25,3760,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","UA","United Air Lines Inc.",440,25.63,2.49,29.92,0,39.95,6244,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","EV","ExpressJet Airlines Inc.",732,23.23,0,29.83,0,48.94,6040,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","B6","JetBlue Airways",292,23.29,0,22.36,0.47,11.88,3261,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","EV","ExpressJet Airlines Inc.",1107,56.41,0,71.13,0,73.46,15313,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","MQ","Envoy Air",55,1.64,0.33,6.81,0,3.22,575,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","YV","Mesa Airlines Inc.",226,15,6,7,0,8,2920,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","B6","JetBlue Airways",298,44.88,1.31,20.78,0,23.03,6331,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","AS","Alaska Airlines Inc.",88,3,0,1,0,0,190,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","WN","Southwest Airlines Co.",3593,208.38,18.81,203.74,1.58,362.49,43042,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","YV","Mesa Airlines Inc.",194,20,3,8,0,11,2177,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","DL","Delta Air Lines Inc.",20071,565.94,90.08,852.12,3,721.85,133589,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","OH","PSA Airlines Inc.",68,5.13,0,3.04,0,3.83,470,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","DL","Delta Air Lines Inc.",21187,529.94,47.63,868.27,2,662.16,116097,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","NK","Spirit Air Lines",762,28.45,11.41,127.19,1.24,32.71,14269,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","OH","PSA Airlines Inc.",104,9.22,2.68,9.15,0,4.95,2313,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","YV","Mesa Airlines Inc.",172,20,6,14,0,15,3385,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","NK","Spirit Air Lines",689,29.93,0.38,107.01,1.12,21.56,9510,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","UA","United Air Lines Inc.",347,12.5,0.22,21.96,0,11.32,2539,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","YV","Mesa Airlines Inc.",191,15.67,0.09,4.07,0,6.17,2053,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","YX","Republic Airline",513,13.29,1.2,25.48,0,20.02,2791,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","9E","Endeavor Air Inc.",1889,63.57,8.46,75.77,0,158.2,29744,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","NK","Spirit Air Lines",570,22.68,1.06,38.9,0,30.36,6351,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","YX","Republic Airline",319,7.85,5.97,22.08,0,15.09,3316,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","OO","SkyWest Airlines Inc.",2295,78.13,66.75,134.54,0,255.58,56782,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","F9","Frontier Airlines Inc.",324,32.14,4.43,32.81,0,53.62,8788,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","WN","Southwest Airlines Co.",3123,139.16,6.78,99.72,2.5,198.84,19017,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","OH","PSA Airlines Inc.",112,16.67,3,12.75,0,11.58,3058,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","AA","American Airlines Inc.",965,54.06,3,35.25,0,47.69,7131,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","9E","Endeavor Air Inc.",2507,55.72,16.12,136.55,0,129.6,21647,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","WN","Southwest Airlines Co.",3474,201.7,9.87,312.53,2.84,251.06,35692,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","YX","Republic Airline",505,15.23,0.12,20.74,0,16.91,2580,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","9E","Endeavor Air Inc.",2532,70.8,32.63,129.76,0,204.81,34222,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","WN","Southwest Airlines Co.",3631,167.8,7.63,122.94,2.47,208.16,23235,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","F9","Frontier Airlines Inc.",254,20.28,0,22.07,0,31.66,4501,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","YV","Mesa Airlines Inc.",191,11,4,13,0,2,1704,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","AS","Alaska Airlines Inc.",36,0,0,2,0,0,39,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","AS","Alaska Airlines Inc.",53,2.96,0,5.16,0,1.88,234,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","OH","PSA Airlines Inc.",68,3.84,1.3,5.36,0,8.5,764,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","UA","United Air Lines Inc.",430,29.04,3.9,47.86,0,40.21,8788,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","YV","Mesa Airlines Inc.",233,25,5,13,0,17,5777,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","DL","Delta Air Lines Inc.",21384,804.37,107.55,1198.66,2.65,981.76,186765,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","DL","Delta Air Lines Inc.",19820,643.43,102.16,1884.42,1,1264,204446,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","NK","Spirit Air Lines",693,27.85,5.08,63.5,0,17.56,7633,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","AA","American Airlines Inc.",858,48.19,5.1,39.21,0.11,43.39,7903,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","AS","Alaska Airlines Inc.",85,0.93,0,5.24,0,3.83,318,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","OO","SkyWest Airlines Inc.",2182,81.02,29.62,113.16,0.09,223.11,40625,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","OH","PSA Airlines Inc.",109,7.76,1.53,9.24,0.03,11.44,1420,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","UA","United Air Lines Inc.",434,15.5,5.67,15.96,0,16.87,3962,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","B6","JetBlue Airways",268,31.97,1.67,55.13,0,13.23,5676,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","OO","SkyWest Airlines Inc.",2227,82.53,36.54,97.09,0.19,223.65,36153,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","WN","Southwest Airlines Co.",3529,144.25,4.45,112.23,0,201.08,20436,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","DL","Delta Air Lines Inc.",21931,755.76,162.84,898,3,1032.4,213951,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","UA","United Air Lines Inc.",427,31.73,5.13,38.45,0,34.69,8280,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+6,"ATL","YV","Mesa Airlines Inc.",201,19,1,19,0,8,3518,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","NK","Spirit Air Lines",629,28.17,2.88,55.27,1,17.68,6276,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","DL","Delta Air Lines Inc.",20637,622.14,74.44,764.16,3,674.26,133813,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","AS","Alaska Airlines Inc.",62,0,0,3,0,1,92,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","WN","Southwest Airlines Co.",3362,128.6,20.3,133.57,1.75,179.78,23437,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","UA","United Air Lines Inc.",337,15.37,0.01,26.02,0,16.6,2702,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","AS","Alaska Airlines Inc.",51,1.8,0.8,4.52,0,1.88,537,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","OH","PSA Airlines Inc.",107,6.08,1.11,8.63,0,8.18,1521,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","OO","SkyWest Airlines Inc.",1985,50.36,31.22,120.67,0,160.74,23992,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","AS","Alaska Airlines Inc.",60,0,0,0,0,1,26,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","UA","United Air Lines Inc.",386,12.84,1.53,18.65,0,10.97,2672,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","WN","Southwest Airlines Co.",3509,179.45,8.28,137.5,1.25,255.52,30196,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","MQ","Envoy Air",61,0.51,1,2.13,0,2.37,689,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","F9","Frontier Airlines Inc.",272,19.31,0.34,6.8,0,23.55,4155,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+1,"ATL","B6","JetBlue Airways",147,16.73,0.79,12.53,0.07,10.88,2381,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","YV","Mesa Airlines Inc.",158,7,0,5,0,1,827,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","YX","Republic Airline",487,17.22,4.41,31.75,0,22.61,3904,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","OH","PSA Airlines Inc.",109,11.63,0,11.11,0,5.26,1142,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","UA","United Air Lines Inc.",405,19.74,0.97,26.32,0,25.96,4057,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","9E","Endeavor Air Inc.",2541,82.08,21.12,257.8,0,305.99,48247,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"ATL","YX","Republic Airline",480,17.14,2.89,53.64,0,24.33,4472,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","B6","JetBlue Airways",302,43.31,3.54,26.97,0.41,21.78,6381,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","UA","United Air Lines Inc.",377,16.81,0.1,28.09,0,20.99,3540,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+4,"ATL","9E","Endeavor Air Inc.",2494,62.43,12.01,115.58,0,181.98,24866,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+5,"ATL","EV","ExpressJet Airlines Inc.",830,51.18,0,35.36,0,55.46,12418,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","OH","PSA Airlines Inc.",79,7.23,0.06,5.76,0,4.95,907,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","YV","Mesa Airlines Inc.",192,19,3,15,0,10,4943,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","NK","Spirit Air Lines",690,20.8,0.53,62.48,1.22,18.97,5367,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+2,"ATL","B6","JetBlue Airways",132,12.88,0,9.47,0,2.65,995,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+3,"ATL","NK","Spirit Air Lines",633,14.35,0.35,43.71,0.09,19.5,4391,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+10,"ATL","9E","Endeavor Air Inc.",2382,62.1,6.03,96.9,0,138.97,19940,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+12,"ATL","B6","JetBlue Airways",245,41.08,0.56,27.87,0,13.48,4791,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+9,"ATL","F9","Frontier Airlines Inc.",283,23.92,0,21.59,0,36.49,5849,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","B6","JetBlue Airways",302,35.27,1.46,27.77,0.64,20.85,6705,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+8,"ATL","MQ","Envoy Air",58,0.25,0.03,9.36,0,2.36,763,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+7,"ATL","DL","Delta Air Lines Inc.",21688,727.77,188.68,1174.36,1.11,1231.08,262779,"Hartsfield-Jackson Atlanta International Airport","Atlanta","GA",33.64044,-84.42694
+11,"DFW","YV","Mesa Airlines Inc.",3150,174.53,24.25,258.93,5.04,292.25,44707,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","DL","Delta Air Lines Inc.",627,33.6,3.48,43.09,0,18.83,5630,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","UA","United Air Lines Inc.",540,18.84,3.03,39.32,0,33.81,6382,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","NK","Spirit Air Lines",1004,23.07,6.53,159.32,0,25.08,15477,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","DL","Delta Air Lines Inc.",580,37.83,4.8,45.41,0,16.97,4770,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","MQ","Envoy Air",4736,134.26,57.18,234.63,1.12,235.81,42126,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","AS","Alaska Airlines Inc.",148,4.55,0.41,7.76,0,8.27,895,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","YV","Mesa Airlines Inc.",2845,102.11,22.82,72.83,1.11,216.14,33031,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","EV","ExpressJet Airlines Inc.",949,50.78,0,21.9,0,71.32,17367,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","YX","Republic Airline",320,16.13,2.05,30.93,0,11.89,3860,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","AS","Alaska Airlines Inc.",120,2.03,0.47,14.33,0,6.18,935,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","OO","SkyWest Airlines Inc.",468,20.49,2.52,54.82,0.75,50.41,11720,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","EV","ExpressJet Airlines Inc.",454,30.99,0,30.77,0,50.23,8905,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","MQ","Envoy Air",3668,87.96,56.52,250.08,1.28,251.16,44638,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","MQ","Envoy Air",4644,127.74,39.55,169.03,1.12,226.56,33763,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","DL","Delta Air Lines Inc.",663,33.1,1.87,62.83,0,13.2,5499,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","AA","American Airlines Inc.",12760,665.4,143.92,863.8,3.82,1165.06,212420,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","YX","Republic Airline",306,16.55,0,29.28,0,11.17,3395,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","YX","Republic Airline",250,17.74,1.86,27.67,0,10.73,4012,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","AS","Alaska Airlines Inc.",155,3.91,0,4.47,0,1.62,432,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","9E","Endeavor Air Inc.",225,12.6,0.45,8.29,0,7.66,1751,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","AA","American Airlines Inc.",12657,668.82,139.86,769.36,2.43,1219.53,200339,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","NK","Spirit Air Lines",1037,45.63,18.18,133.61,3.99,70.6,23321,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","AA","American Airlines Inc.",11701,489.43,93.3,811.61,3.82,697.85,160964,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","AA","American Airlines Inc.",11360,400.4,46.85,578.45,2.26,532.04,108201,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","OO","SkyWest Airlines Inc.",552,23.82,4.9,17.45,0,36.83,7001,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","YV","Mesa Airlines Inc.",3365,182.99,37.94,133.81,1.15,349.11,57541,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","OO","SkyWest Airlines Inc.",646,28.69,5.45,57.76,0,48.1,13422,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","MQ","Envoy Air",4491,150.07,59.75,185.9,1.39,335.89,48316,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","NK","Spirit Air Lines",688,17.55,3.17,70.21,0.41,28.66,10373,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","UA","United Air Lines Inc.",560,22.07,3.12,25.56,0,16.25,3609,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","F9","Frontier Airlines Inc.",54,4.8,0,3.94,0,11.26,1650,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","MQ","Envoy Air",4059,146.01,48.76,321.82,1.69,289.73,48940,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","AS","Alaska Airlines Inc.",118,4.36,0,2.49,0,3.15,505,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","AS","Alaska Airlines Inc.",114,3.97,0,8.49,0,1.53,669,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","NK","Spirit Air Lines",735,8.17,0,136.4,0.11,12.32,12150,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","OO","SkyWest Airlines Inc.",1128,50.23,13.14,110.34,0,82.29,16584,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","F9","Frontier Airlines Inc.",45,3.98,0,2.19,0,1.83,455,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","EV","ExpressJet Airlines Inc.",965,45.12,0,12.25,0,65.62,14876,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","B6","JetBlue Airways",55,4.8,0,3.62,0,2.57,913,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","9E","Endeavor Air Inc.",218,9.33,1.28,22.33,0,8.06,2879,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","F9","Frontier Airlines Inc.",36,1.33,0,2.51,0,6.16,542,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","MQ","Envoy Air",4173,138.19,49.25,196.52,3.87,388.17,53374,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","UA","United Air Lines Inc.",502,15.6,5.81,10.4,0,22.2,4467,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","MQ","Envoy Air",4003,108.09,63.01,345.43,0.81,315.66,58423,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","DL","Delta Air Lines Inc.",656,47.6,13.47,58.65,0,38.28,10800,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","YX","Republic Airline",253,21.59,2.1,37.92,0,13.38,4103,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","F9","Frontier Airlines Inc.",59,4.14,0.44,3.85,0,10.57,1821,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","OO","SkyWest Airlines Inc.",837,35.72,10.78,91.44,0,67.06,16374,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","YV","Mesa Airlines Inc.",3063,157.95,37.54,110.35,4.52,282.65,43557,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","F9","Frontier Airlines Inc.",34,3.25,0.41,5.27,0,3.08,710,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","F9","Frontier Airlines Inc.",31,4.29,0,1.51,0,2.2,559,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","NK","Spirit Air Lines",598,20.23,0.68,70.21,0,22.88,6169,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","9E","Endeavor Air Inc.",198,13.39,1,11.48,0,2.13,2058,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","AS","Alaska Airlines Inc.",115,1,0,8.61,0,2.39,689,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","AS","Alaska Airlines Inc.",84,2.1,0.5,12.62,0,3.78,771,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","B6","JetBlue Airways",58,3.28,0.95,4.77,0,3,638,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","B6","JetBlue Airways",48,6.53,0,12.83,0,2.64,893,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","AS","Alaska Airlines Inc.",120,5.74,0,2.99,0,2.27,434,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","YV","Mesa Airlines Inc.",2672,93.12,21.73,97.6,2.94,124.61,21076,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","MQ","Envoy Air",3933,106.31,29.33,334.2,0,213.16,34079,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","EV","ExpressJet Airlines Inc.",930,34.15,0,22.98,0,56.87,11875,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","YV","Mesa Airlines Inc.",2354,143.84,32.09,154.72,2.27,239.09,48139,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","UA","United Air Lines Inc.",556,25.97,3.79,65.43,0,32.81,11122,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","OO","SkyWest Airlines Inc.",1268,65.86,9,121.48,0,133.65,26220,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","YX","Republic Airline",305,14.25,1.39,30.47,0,18.89,4310,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","F9","Frontier Airlines Inc.",59,7.74,0,7.52,0,13.74,2257,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","NK","Spirit Air Lines",645,12.2,3.29,59.4,0,18.11,7439,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","UA","United Air Lines Inc.",406,18.54,5.56,57.83,0,39.06,6743,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","AA","American Airlines Inc.",12040,402.43,30.07,459.5,3.96,577.04,96433,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","OO","SkyWest Airlines Inc.",421,22.82,6.6,26.88,0,46.7,9387,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","UA","United Air Lines Inc.",487,18.16,9.16,56.11,0,23.56,7652,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","B6","JetBlue Airways",58,10.02,0,1.91,0,0.06,731,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","YX","Republic Airline",305,11.87,0.75,16.55,0,7.82,2968,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","DL","Delta Air Lines Inc.",447,14.9,4.81,30.56,0,10.73,4128,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","AS","Alaska Airlines Inc.",100,1,0,2.24,0,0.76,133,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","9E","Endeavor Air Inc.",311,13.77,1.58,27.46,0,14.19,2441,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","NK","Spirit Air Lines",597,22.95,1.2,53.61,0.5,26.74,8589,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","AS","Alaska Airlines Inc.",124,2.97,0,10.88,0.58,2.57,644,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","9E","Endeavor Air Inc.",169,10.96,0,26.57,0,5.47,2352,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","F9","Frontier Airlines Inc.",52,5.28,0,3.95,0,7.78,1113,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","MQ","Envoy Air",4022,139.05,87.16,355.66,1.6,384.52,63801,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","OO","SkyWest Airlines Inc.",438,14.49,3.79,15.7,0.07,20.94,5203,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","NK","Spirit Air Lines",898,29.24,10.53,65.28,0,43.95,17129,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","AA","American Airlines Inc.",12145,614.19,69.66,1180.19,2.86,932.1,211203,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","B6","JetBlue Airways",51,6.73,0,18.46,0,0.81,974,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","YV","Mesa Airlines Inc.",3144,184.79,43.47,146.49,3.45,377.81,60980,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","DL","Delta Air Lines Inc.",558,23.65,3.06,28.05,0,14.23,3989,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","NK","Spirit Air Lines",608,15.4,1.6,34.34,0,17.66,6194,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","EV","ExpressJet Airlines Inc.",1031,76.92,0,51.73,0,114.35,22146,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","YV","Mesa Airlines Inc.",2722,119.23,24.31,99.15,1.08,151.22,27738,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","EV","ExpressJet Airlines Inc.",934,32.19,0,18.97,0,39.84,8749,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","AS","Alaska Airlines Inc.",121,4.48,0,7.38,0,6.14,684,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","B6","JetBlue Airways",58,3.47,0,0.86,0,2.67,779,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","UA","United Air Lines Inc.",502,29.26,2.4,83.66,0,36.67,8687,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","MQ","Envoy Air",4417,164.91,48.01,172.63,0.98,358.47,49353,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","UA","United Air Lines Inc.",565,27.08,8.12,32.14,0,54.66,9353,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","B6","JetBlue Airways",51,4.53,0,6.31,0,2.16,645,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","9E","Endeavor Air Inc.",155,8.25,0,3.21,0,3.54,864,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","B6","JetBlue Airways",57,4.3,0,13.49,0,2.21,971,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","UA","United Air Lines Inc.",339,16.47,1.62,32.92,0,27,4429,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","F9","Frontier Airlines Inc.",50,2.26,0,0.13,0,9.62,959,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","EV","ExpressJet Airlines Inc.",1189,79.81,0,26.06,0,141.13,25200,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","AA","American Airlines Inc.",11864,537.71,50.08,983.9,6.15,718.16,149112,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","AA","American Airlines Inc.",11557,594.4,41.24,902.87,4.18,665.32,131864,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","AA","American Airlines Inc.",10664,418.74,59.92,909.5,4.75,800.09,156506,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","UA","United Air Lines Inc.",695,46.58,5.67,74.02,0,70.73,13199,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","EV","ExpressJet Airlines Inc.",1261,72.17,0,33.27,0,196.56,28702,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","AA","American Airlines Inc.",13034,759.39,164.56,893.29,6.02,1305.74,225174,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","B6","JetBlue Airways",43,2.25,0,9.11,0,0.64,457,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","AA","American Airlines Inc.",12065,466.49,99.53,390.4,3.87,882.71,163006,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","DL","Delta Air Lines Inc.",677,46.08,6.74,45.46,0,26.72,8865,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","9E","Endeavor Air Inc.",202,10.03,1.35,25.59,0,6.03,2427,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","9E","Endeavor Air Inc.",182,8.02,1,24.85,0,5.13,1727,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","UA","United Air Lines Inc.",706,45.41,10.46,62.12,0,76.01,14851,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","OO","SkyWest Airlines Inc.",523,13.81,12.5,10.39,0,39.3,6582,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","9E","Endeavor Air Inc.",131,11.5,0.85,10.35,0,5.31,1622,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","F9","Frontier Airlines Inc.",40,3.2,0,0,0,3.8,389,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","YX","Republic Airline",357,27.49,1.76,37.04,0,19.72,7219,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","DL","Delta Air Lines Inc.",436,21.37,0.84,13.61,0,14.18,2342,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","9E","Endeavor Air Inc.",140,4.46,2.97,15.8,0,9.78,1730,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","EV","ExpressJet Airlines Inc.",528,47.9,0,45.25,0,48.85,11634,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","OO","SkyWest Airlines Inc.",463,24.62,1.86,10.9,1.09,44.54,6542,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","YV","Mesa Airlines Inc.",3187,160.65,49.93,186.43,2.55,403.44,74092,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","AA","American Airlines Inc.",11495,423.27,69.78,393.05,4.25,479.65,98510,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","YX","Republic Airline",330,11.97,2.96,16.7,0,15.37,2805,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","DL","Delta Air Lines Inc.",723,55.89,14.99,38.68,0,29.45,9730,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","B6","JetBlue Airways",55,3.51,0,2.44,0,0.05,131,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","AS","Alaska Airlines Inc.",149,2.1,0,7.09,0,4.81,513,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","OO","SkyWest Airlines Inc.",594,41.16,8.59,37.97,0,43.28,15072,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","YX","Republic Airline",261,16.15,0.39,49.28,0,19.18,4790,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","NK","Spirit Air Lines",546,17.78,0,49.95,0.32,34.95,12114,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","F9","Frontier Airlines Inc.",65,5.49,0,6.7,0,8.81,1548,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","YX","Republic Airline",406,27.81,2.69,37.38,0,27.11,7298,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+4,"DFW","EV","ExpressJet Airlines Inc.",723,33.69,0,15.4,0,24.91,7889,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","YX","Republic Airline",265,26.88,0,15.71,0,6.41,3073,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","DL","Delta Air Lines Inc.",560,30.05,2.2,24.07,0,24.68,4711,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","EV","ExpressJet Airlines Inc.",938,91.55,0,55.1,0,125.35,25251,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","DL","Delta Air Lines Inc.",510,21.05,9.44,10.49,0,18.02,3723,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","B6","JetBlue Airways",51,6.15,0,6.83,0,3.02,1144,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+11,"DFW","F9","Frontier Airlines Inc.",36,3.55,0,2.89,0,3.56,620,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","EV","ExpressJet Airlines Inc.",841,68.64,0,45.47,0,110.89,23538,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+3,"DFW","B6","JetBlue Airways",53,3.23,1,5.83,0,1.94,613,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","UA","United Air Lines Inc.",640,39.67,16.77,83.52,0,57.04,13193,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+10,"DFW","YV","Mesa Airlines Inc.",3148,221.17,41.21,227.09,1.06,397.47,77106,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","NK","Spirit Air Lines",1036,55.46,15.23,131.05,0.63,81.64,22970,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","YV","Mesa Airlines Inc.",3185,181.29,28.69,221.18,3.54,341.29,66175,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+12,"DFW","DL","Delta Air Lines Inc.",495,25.24,1.69,20.96,0,11.11,2663,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+8,"DFW","MQ","Envoy Air",4147,121.23,71.02,195.72,1.49,273.53,44860,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","YV","Mesa Airlines Inc.",2612,123.69,15.6,91.73,1.02,154.95,25908,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+6,"DFW","9E","Endeavor Air Inc.",111,1.96,1.4,5.1,0,1.54,438,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+9,"DFW","YX","Republic Airline",274,14.88,1.08,25.7,0,17.33,3604,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+7,"DFW","OO","SkyWest Airlines Inc.",540,41,12.32,34.53,0.88,48.27,11022,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+5,"DFW","MQ","Envoy Air",4578,142.04,49.83,114.36,1.93,290.84,43921,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+1,"DFW","NK","Spirit Air Lines",608,23.92,0.48,34.44,2.93,19.22,5490,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"DFW","9E","Endeavor Air Inc.",220,14,3.57,25.63,0,10.81,5951,"Dallas/Fort Worth International Airport","Dallas-Fort Worth","TX",32.89595,-97.0372
+2,"JFK","9E","Endeavor Air Inc.",1944,52.88,17.87,118.97,0,105.28,30592,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","YX","Republic Airline",209,4.43,1.75,22.76,0.48,6.58,2495,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","AA","American Airlines Inc.",1358,68.39,2.58,50.13,2.1,34.8,9697,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","DL","Delta Air Lines Inc.",2700,125.27,25.85,381.9,1,184.99,73486,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","VX","Virgin America",357,16.15,0,29.46,1.38,6.02,3131,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","B6","JetBlue Airways",3481,244.08,1.2,325.7,2.44,312.58,65269,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","VX","Virgin America",324,13.37,0,18.74,0,8.89,1845,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","YX","Republic Airline",249,11.78,1.44,17.69,0,15.09,3002,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","AA","American Airlines Inc.",1440,91.25,2.27,145.01,0.93,69.54,22430,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","DL","Delta Air Lines Inc.",2258,86.02,13.64,264.78,0.74,48.82,28992,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","9E","Endeavor Air Inc.",1584,53.05,9.12,128.9,0,85.93,20249,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","HA","Hawaiian Airlines Inc.",30,10.6,0,0,0,0.4,416,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","OO","SkyWest Airlines Inc.",204,8.05,12.39,30.19,0,21.38,6457,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","OH","PSA Airlines Inc.",28,2,0,3.78,0,4.22,598,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","OH","PSA Airlines Inc.",56,4.96,0.96,7.14,0,2.95,1077,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","YX","Republic Airline",193,6.28,0.62,24.74,0,11.36,3146,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","AA","American Airlines Inc.",1247,58.32,4.04,49.66,0,38.98,9625,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","YX","Republic Airline",249,9.91,1.51,13.55,0,11.03,2649,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","OO","SkyWest Airlines Inc.",228,13.22,12.92,22.96,0,39.89,14574,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","YX","Republic Airline",177,2.87,1,12.95,0,8.18,1348,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","9E","Endeavor Air Inc.",1927,56.4,12.21,211.86,0,99.53,33873,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","AS","Alaska Airlines Inc.",56,0.65,0.09,4.27,0,0,210,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","YX","Republic Airline",235,7.93,1.23,30.01,0,8.83,3044,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","OH","PSA Airlines Inc.",3,0,0,0,0,0,0,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","HA","Hawaiian Airlines Inc.",28,4,0,0,0,1,203,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","9E","Endeavor Air Inc.",1406,40.75,6.14,113.16,0,62.95,23039,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","B6","JetBlue Airways",3603,158.15,15.29,412.56,0.82,264.18,57428,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","OO","SkyWest Airlines Inc.",231,9.63,7.51,21.37,0.38,23.11,4651,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","B6","JetBlue Airways",3845,254.74,25.18,522.7,1.34,530.03,114735,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","HA","Hawaiian Airlines Inc.",31,4.41,0,0,0,0.59,171,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","AS","Alaska Airlines Inc.",62,0.91,0,1.09,0,0,139,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","9E","Endeavor Air Inc.",2204,90.63,9.75,140.18,0,111.43,26531,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","YX","Republic Airline",196,4.16,0,17.88,0,2.96,1301,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","DL","Delta Air Lines Inc.",2534,108.13,9.86,176.04,0.81,106.16,30400,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","AS","Alaska Airlines Inc.",407,13.99,0,27.01,1.54,15.46,3252,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","HA","Hawaiian Airlines Inc.",30,5.43,0.25,0.32,0,1,299,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","9E","Endeavor Air Inc.",2091,64.35,5.57,188.96,0,145.12,34473,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","HA","Hawaiian Airlines Inc.",31,10,0,0,0,0,251,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","AA","American Airlines Inc.",1390,71.15,6.49,102.62,0,58.74,18100,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","HA","Hawaiian Airlines Inc.",31,5.41,0.59,0,0,0,193,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","MQ","Envoy Air",452,31.54,0.58,42.34,0.95,50.58,7570,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","DL","Delta Air Lines Inc.",2493,84.29,9.94,202.62,0,89.14,39071,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","HA","Hawaiian Airlines Inc.",31,2.58,0,0.73,0.69,0,123,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","OO","SkyWest Airlines Inc.",76,5.91,4.31,9.13,0,17.66,3128,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","AA","American Airlines Inc.",1487,74.74,27.51,110.02,0.15,88.58,20280,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","MQ","Envoy Air",569,29.43,3.34,58.8,0,45.43,8744,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","YX","Republic Airline",425,16.05,2.77,41.49,0.89,11.8,4874,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","9E","Endeavor Air Inc.",1817,48.47,3.82,111.43,0,116.28,18178,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","OO","SkyWest Airlines Inc.",229,6.75,5.52,22.24,0,14.49,2593,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","AS","Alaska Airlines Inc.",413,20.31,0.88,40.88,0,11.93,4120,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","AA","American Airlines Inc.",1631,111.38,34.28,286.94,0.61,100.79,36442,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","DL","Delta Air Lines Inc.",2583,68.98,7.06,206.6,0.88,81.48,22262,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","YX","Republic Airline",206,8.24,1.23,18.46,0,6.07,2101,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","AS","Alaska Airlines Inc.",62,0.27,0,6.13,0,1.59,264,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","HA","Hawaiian Airlines Inc.",30,4.43,0,0,0,0.57,163,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","MQ","Envoy Air",490,21.18,1.1,82.14,0,31.59,8667,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","AA","American Airlines Inc.",1530,83.36,5.97,69.34,3.28,56.06,13924,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","AA","American Airlines Inc.",1532,81.18,6.5,179.57,1.14,53.61,19931,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","HA","Hawaiian Airlines Inc.",30,1,0,0,0,0,15,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","MQ","Envoy Air",430,19.64,0.55,55,0,28.82,7502,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+9,"JFK","AS","Alaska Airlines Inc.",435,15.84,0.37,49.7,0,14.08,3891,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","DL","Delta Air Lines Inc.",2621,112.65,15.24,288.56,2,95.55,31394,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","OH","PSA Airlines Inc.",104,3.06,0.55,11.2,0,2.19,1025,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","AS","Alaska Airlines Inc.",455,38.87,0,93.48,0,19.66,11315,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","B6","JetBlue Airways",3164,205.75,3.86,182.27,0.77,265.34,43055,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","9E","Endeavor Air Inc.",2157,50.33,17.89,223.43,0,123.34,36255,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","B6","JetBlue Airways",3585,173.57,5.08,203.3,0,233.05,36716,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","AA","American Airlines Inc.",1369,70.18,5.08,99.62,2.54,43.58,19095,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","MQ","Envoy Air",523,17.13,1.9,48.3,0,42.67,9110,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","OO","SkyWest Airlines Inc.",238,5.81,6.92,21.1,0,19.18,3681,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","HA","Hawaiian Airlines Inc.",31,14.2,1.8,0,0,0,2736,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","B6","JetBlue Airways",3667,259.35,5.38,287.16,1.65,379.46,69762,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","B6","JetBlue Airways",3631,207.65,19.22,330.63,2.08,348.43,60861,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","DL","Delta Air Lines Inc.",2261,80.66,20.58,181.53,0,87.24,38378,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","YX","Republic Airline",261,10.83,0.19,24.38,0,13.61,2297,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","AA","American Airlines Inc.",1667,96.39,15.9,266.64,1.3,108.76,37034,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","DL","Delta Air Lines Inc.",2648,140.3,31.66,240.7,1.98,119.37,42802,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","9E","Endeavor Air Inc.",2162,73.49,13.29,221.13,0,128.09,55429,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","MQ","Envoy Air",196,5.23,1.13,8.99,0,12.65,1861,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","MQ","Envoy Air",513,28.04,2.87,77.06,0,34.03,8880,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","DL","Delta Air Lines Inc.",2051,70.79,8.53,75.23,0,36.45,13501,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","OH","PSA Airlines Inc.",34,5.34,0,2.71,1,2.95,682,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","DL","Delta Air Lines Inc.",2590,78.87,5.27,112.46,0.98,53.43,13411,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","9E","Endeavor Air Inc.",2082,72.06,23.87,117.64,0,95.43,31968,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","YX","Republic Airline",219,8.12,0.95,22.74,0,8.2,2183,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+2,"JFK","YX","Republic Airline",227,8.61,1.56,11.77,0.84,11.21,2023,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","VX","Virgin America",360,22.45,1.84,13.15,1,20.55,3763,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","OH","PSA Airlines Inc.",31,2.78,0,4.45,0,4.77,965,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","B6","JetBlue Airways",3846,237.33,20.7,538.9,3.18,488.9,117048,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+4,"JFK","B6","JetBlue Airways",3553,225.04,12.13,244.86,0.64,413.33,67795,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","OH","PSA Airlines Inc.",84,2.81,1.66,4.79,0,5.74,800,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","MQ","Envoy Air",519,21.94,4.5,43.14,0,49.42,7553,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","HA","Hawaiian Airlines Inc.",31,4,0,0,0,0,389,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","OO","SkyWest Airlines Inc.",268,12.68,21.47,29.14,0,37.71,11476,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","MQ","Envoy Air",225,10.71,0.92,13.52,0,5.85,1668,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","AS","Alaska Airlines Inc.",457,27.67,0,98.47,0.35,18.52,7952,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","OH","PSA Airlines Inc.",26,2.35,0,1.77,0,2.88,566,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","AS","Alaska Airlines Inc.",421,27.65,0,61.42,1,12.93,5273,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","MQ","Envoy Air",471,17.92,0,31.74,0,34.35,5003,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"JFK","DL","Delta Air Lines Inc.",2707,130.56,27.61,421.55,1.48,146.8,68346,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","MQ","Envoy Air",527,27.13,4.06,56.85,0,29.96,6809,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+11,"JFK","AA","American Airlines Inc.",1382,78.1,1.76,140.49,1.19,76.46,23334,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","B6","JetBlue Airways",3689,292.87,7.23,145.36,3.59,434.95,57031,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+3,"JFK","DL","Delta Air Lines Inc.",2579,96.82,17.62,74.55,0,84,26315,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+10,"JFK","AS","Alaska Airlines Inc.",452,21.96,0,39.6,0,13.44,3295,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","B6","JetBlue Airways",3731,233.79,11.66,364.98,5.5,323.07,60491,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","MQ","Envoy Air",217,9.55,2.02,16.47,0,13.96,2305,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+6,"JFK","9E","Endeavor Air Inc.",2210,80.11,16.41,217.25,0,143.22,36100,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","AA","American Airlines Inc.",1413,98.7,17.98,139.14,0.6,77.57,26299,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","AS","Alaska Airlines Inc.",425,26.92,0,68.59,0.11,14.38,5867,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+5,"JFK","HA","Hawaiian Airlines Inc.",31,3.84,0,0.16,0,0,108,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+1,"JFK","B6","JetBlue Airways",3401,250.15,10.44,244.44,0.78,390.19,81440,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+7,"JFK","9E","Endeavor Air Inc.",2127,55.15,21.31,227.71,0,170.83,49726,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+12,"JFK","AS","Alaska Airlines Inc.",437,13.12,1,56.86,0,10.02,4058,"John F. Kennedy International Airport (New York International Airport)","New York","NY",40.63975,-73.77893
+8,"LAX","HA","Hawaiian Airlines Inc.",214,28.38,0,1,0,14.62,2901,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","AA","American Airlines Inc.",3298,141.12,17.24,184.07,1.12,121.45,24917,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","HA","Hawaiian Airlines Inc.",140,43.08,0.21,0.54,0.67,4.51,1445,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","DL","Delta Air Lines Inc.",3107,141.98,14.08,226.41,1.89,122.63,25258,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","G4","Allegiant Air",109,3.34,1.47,10.59,0.32,15.28,1968,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","OO","SkyWest Airlines Inc.",2730,64.01,10.01,167.1,0,201.89,31573,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","AA","American Airlines Inc.",3594,165.97,13.32,261.79,2.82,123.1,30724,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","AS","Alaska Airlines Inc.",1954,107.6,2.93,256.41,0.35,84.7,20143,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","AA","American Airlines Inc.",2885,133.81,15.44,130.36,2.22,99.18,21567,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","WN","Southwest Airlines Co.",3503,189.86,2.98,102.39,1.94,268.83,29401,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","WN","Southwest Airlines Co.",3604,185.48,3.51,149.51,3.08,254.43,28183,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","UA","United Air Lines Inc.",2418,124.04,8.73,169.86,0,128.37,28050,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","F9","Frontier Airlines Inc.",90,11.36,0,4.04,0,10.61,1749,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","G4","Allegiant Air",97,6.92,0,9.16,0,12.92,2105,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","NK","Spirit Air Lines",658,13.44,0.45,41.93,1.55,13.63,4401,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","NK","Spirit Air Lines",724,29.95,1.64,73.74,0,30.67,8822,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","AA","American Airlines Inc.",3567,231.17,48.86,204.37,1.84,222.75,45886,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","G4","Allegiant Air",239,14.01,1.25,10.19,0.26,30.29,3567,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","AS","Alaska Airlines Inc.",1712,69.33,0.11,123.01,0,54.55,11322,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","OO","SkyWest Airlines Inc.",2771,103.66,12.87,206.98,0,247.49,43488,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","AA","American Airlines Inc.",3403,176.36,32.94,143.81,2.46,155.43,35223,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","HA","Hawaiian Airlines Inc.",176,25.47,0,0,0.94,15.59,1678,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","WN","Southwest Airlines Co.",3173,261.68,7.89,234.29,2.33,370.82,38992,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","DL","Delta Air Lines Inc.",2455,122.53,30.27,124.96,0,49.24,21413,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","F9","Frontier Airlines Inc.",107,9.32,0,1.02,0,11.67,1143,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","HA","Hawaiian Airlines Inc.",186,52.79,0,0,0,10.21,2796,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","AA","American Airlines Inc.",3450,175.04,27.94,185.65,0,179.37,35821,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","NK","Spirit Air Lines",681,2.52,0,112.41,0,2.07,5882,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","UA","United Air Lines Inc.",2632,93.8,28.52,211.53,0,127.15,27412,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","B6","JetBlue Airways",551,50.7,2.6,80.88,0,23.81,7278,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","NK","Spirit Air Lines",682,24.28,3,37.05,0.94,17.74,4683,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","VX","Virgin America",1201,33.65,6.48,60.93,1.21,35.73,6633,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","AS","Alaska Airlines Inc.",1712,49.03,1.63,152.22,0.46,94.66,13270,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","F9","Frontier Airlines Inc.",124,11.71,0,18.84,0,6.44,1858,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","G4","Allegiant Air",123,6.58,1.27,11.61,0,9.54,1680,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","UA","United Air Lines Inc.",2690,113.86,34.17,164.86,0.12,156.98,33606,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","HA","Hawaiian Airlines Inc.",184,58.34,0,0,0.33,3.32,2113,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","OO","SkyWest Airlines Inc.",2550,66.18,11.58,235.05,0.75,152.45,26345,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","NK","Spirit Air Lines",768,12.41,1.94,83.16,0,12.49,6283,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","DL","Delta Air Lines Inc.",2875,111.41,8.17,97.63,0.82,57.98,17073,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","F9","Frontier Airlines Inc.",55,2.54,0,4.65,0,0.8,361,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","WN","Southwest Airlines Co.",3667,301.96,8.17,352.92,1,373.95,49958,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","NK","Spirit Air Lines",793,35.13,2.18,57.1,1.05,49.54,12001,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","B6","JetBlue Airways",516,31.31,6.65,31.08,0,18.95,5254,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","B6","JetBlue Airways",529,35.54,3.47,53.04,0,19.96,6473,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","AA","American Airlines Inc.",3153,148.71,20.3,109.1,1.1,91.79,25934,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","HA","Hawaiian Airlines Inc.",186,35.71,0,0,0,15.29,2091,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","DL","Delta Air Lines Inc.",2858,139.39,12.94,271.91,0,80.76,24625,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","F9","Frontier Airlines Inc.",97,3.91,0,6.66,0,9.43,1218,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","G4","Allegiant Air",117,10.34,0.67,23.97,0,10.02,1863,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","DL","Delta Air Lines Inc.",3272,179.36,23.54,122.77,0,118.33,33905,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","F9","Frontier Airlines Inc.",112,11.38,0.54,17.79,0,10.3,2621,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","WN","Southwest Airlines Co.",3672,232.4,15.45,128.8,2.16,353.2,38732,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","AS","Alaska Airlines Inc.",1973,137.24,4.91,151.53,0.18,87.14,18536,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","AS","Alaska Airlines Inc.",702,13.28,1.68,34.53,0,6.51,2480,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","AS","Alaska Airlines Inc.",1850,64.84,7.82,218.31,1.43,81.6,18280,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","AA","American Airlines Inc.",3381,176.01,14.53,171.83,0.6,144.03,29239,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","DL","Delta Air Lines Inc.",2739,167.61,12.99,381.21,0,94.19,33323,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","AS","Alaska Airlines Inc.",605,12.94,2.11,21.17,0.23,8.55,1986,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","NK","Spirit Air Lines",651,25.64,0.96,46.92,1.38,21.1,6426,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","AS","Alaska Airlines Inc.",1965,106.22,3.29,165.78,1.41,78.3,16132,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","B6","JetBlue Airways",482,42.17,0,107.99,0,9.84,6643,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","UA","United Air Lines Inc.",2664,138.29,35.43,148.73,0,222.56,39997,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","G4","Allegiant Air",100,8.47,1.92,16.53,0,15.08,2310,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","HA","Hawaiian Airlines Inc.",200,46.29,0,0.07,0,6.64,2087,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","G4","Allegiant Air",97,8.43,0,0.28,0,5.3,970,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","UA","United Air Lines Inc.",2267,105.34,9.98,166.51,0,92.17,22298,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","VX","Virgin America",1335,61.87,1.32,160.86,1.38,85.57,15993,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","UA","United Air Lines Inc.",2126,87.05,19.48,84.36,0,61.11,16865,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","HA","Hawaiian Airlines Inc.",162,56.15,0,0.68,0.75,4.43,2373,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","DL","Delta Air Lines Inc.",3378,151.62,28.15,147.22,0.9,180.11,30735,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","G4","Allegiant Air",109,11.64,0,4.34,0,9.02,3099,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","OO","SkyWest Airlines Inc.",3053,76.46,12.28,374.75,1,277.52,45553,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","B6","JetBlue Airways",492,21.93,5.37,16.54,0.56,30.59,4591,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","DL","Delta Air Lines Inc.",2256,112.06,13.64,240.8,0,54.49,20716,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","WN","Southwest Airlines Co.",3565,212.49,10.26,146.35,3.49,322.41,34903,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","OO","SkyWest Airlines Inc.",2591,60.59,6.21,80.06,0.85,134.3,19112,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","NK","Spirit Air Lines",680,23.39,1.88,87.42,0,16.31,6838,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","OO","SkyWest Airlines Inc.",2745,107.25,8.2,122.94,1.5,221.11,33352,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","NK","Spirit Air Lines",792,23.52,5.93,68.66,0,38.89,10539,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","AS","Alaska Airlines Inc.",1794,74.4,5.01,198,0,85.59,15660,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","DL","Delta Air Lines Inc.",2704,96.42,18.34,137.6,0,85.64,24486,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","WN","Southwest Airlines Co.",3537,140.83,11.9,121.76,1.55,214.96,23053,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","WN","Southwest Airlines Co.",3757,215.42,13.84,135.71,0.87,323.17,37282,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","AA","American Airlines Inc.",3463,201.71,43.24,145.11,1.72,192.22,44309,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","WN","Southwest Airlines Co.",3421,224.16,7.63,162.9,3.15,296.15,34559,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","UA","United Air Lines Inc.",2332,119.04,9.86,232.1,0,86,24726,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","WN","Southwest Airlines Co.",3648,301.92,12.13,539.92,2.66,474.37,66877,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","UA","United Air Lines Inc.",1915,88.14,13.91,159.36,0,40.59,14668,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","HA","Hawaiian Airlines Inc.",180,30.88,2,1.12,0,13,2205,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","G4","Allegiant Air",93,10.51,1.5,4.31,0,9.68,2617,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","HA","Hawaiian Airlines Inc.",186,48.37,0,0.09,1.42,5.13,2630,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","UA","United Air Lines Inc.",2292,102.83,11.16,132.41,0,126.6,27010,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","B6","JetBlue Airways",543,33.64,0,46.64,0,23.71,5998,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","OO","SkyWest Airlines Inc.",2773,91.97,10.06,115.83,0.08,238.06,35317,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","HA","Hawaiian Airlines Inc.",180,17.86,0,1.27,0,10.87,1797,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","UA","United Air Lines Inc.",2225,98.69,21.98,105.56,0,80.77,18758,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","OO","SkyWest Airlines Inc.",2704,68.44,11.82,178.91,0.38,191.46,35235,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","DL","Delta Air Lines Inc.",2985,179.7,13.22,385.07,1,115.01,34110,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","B6","JetBlue Airways",551,50.21,0,29.84,0,24.96,7330,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","F9","Frontier Airlines Inc.",93,9.63,0.01,10.16,0,11.2,1871,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","OO","SkyWest Airlines Inc.",2946,76.87,4.52,188.77,1.55,216.29,34504,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","AS","Alaska Airlines Inc.",563,6.94,0.29,53.54,0.3,8.94,2649,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","F9","Frontier Airlines Inc.",93,9.41,1.43,6.08,0,10.08,1932,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","G4","Allegiant Air",99,5.33,0,4.61,0,5.06,1066,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","AA","American Airlines Inc.",3507,222.06,21.9,335.51,0.39,210.14,46784,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","B6","JetBlue Airways",505,38.95,3.01,53.71,0,18.33,6520,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","B6","JetBlue Airways",529,45.01,4.01,17.45,0.14,20.39,6923,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","NK","Spirit Air Lines",616,27.96,1.04,75.56,0,17.44,8672,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","HA","Hawaiian Airlines Inc.",180,24.03,0,0.37,0.24,8.36,968,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","DL","Delta Air Lines Inc.",2959,131.13,5.08,164.57,0,58.22,17862,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","WN","Southwest Airlines Co.",3732,214.62,5.8,242.58,0.44,270.56,32232,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","UA","United Air Lines Inc.",2773,129.73,31.48,137.29,0,182.5,34378,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","G4","Allegiant Air",216,11.56,1.21,6.71,0,26.51,4114,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","AS","Alaska Airlines Inc.",1675,54.15,9.53,100.46,0,88.85,14173,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","OO","SkyWest Airlines Inc.",2594,55.08,7.04,237.26,0.47,172.15,26066,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","AA","American Airlines Inc.",3587,229.51,51.55,198.64,1.29,267.01,50366,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+9,"LAX","NK","Spirit Air Lines",654,14.33,2.69,36.77,0.23,19.97,4426,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","G4","Allegiant Air",177,7.91,0.82,3.08,0,13.2,1174,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+6,"LAX","OO","SkyWest Airlines Inc.",2648,88.33,6.3,116.07,0.35,191.94,27919,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+1,"LAX","F9","Frontier Airlines Inc.",124,7.22,0.79,8.6,0,8.39,1512,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+5,"LAX","F9","Frontier Airlines Inc.",93,7.03,0,9.32,0,8.65,1432,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+2,"LAX","VX","Virgin America",1104,40.91,0,99.17,0,36.92,8263,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","B6","JetBlue Airways",547,37.88,8.81,54.74,0,40.58,9197,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","UA","United Air Lines Inc.",2438,83.22,9.89,192.65,0,88.24,21344,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+3,"LAX","AA","American Airlines Inc.",3332,140.46,10.23,212.36,0.72,103.22,24902,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","F9","Frontier Airlines Inc.",71,6.98,2,5.42,0,3.6,908,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","DL","Delta Air Lines Inc.",3405,168.01,32.12,126.55,3,102.32,29915,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+7,"LAX","B6","JetBlue Airways",553,33.08,4.24,44.62,0,39.07,8668,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+12,"LAX","NK","Spirit Air Lines",679,17.91,2.77,49.9,0,9.42,4724,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"LAX","B6","JetBlue Airways",491,28.9,0.82,86.85,0,14.43,7159,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","AS","Alaska Airlines Inc.",1905,154.02,4.69,148.37,1,113.92,23181,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+11,"LAX","OO","SkyWest Airlines Inc.",2542,58,3.4,78.99,1,189.61,32390,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+4,"LAX","WN","Southwest Airlines Co.",3575,294.92,5.74,416.93,0.06,408.35,54937,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+8,"LAX","F9","Frontier Airlines Inc.",104,18.02,0,5.63,0,12.35,2026,"Los Angeles International Airport","Los Angeles","CA",33.94254,-118.40807
+10,"ORD","B6","JetBlue Airways",229,22.15,0,46.8,0,14.05,4152,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","9E","Endeavor Air Inc.",167,7.95,0,15.99,0,5.06,1412,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","OH","PSA Airlines Inc.",164,11.33,0.93,16.96,0,12.78,3689,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","VX","Virgin America",56,3.45,0,5.55,0,1,875,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","MQ","Envoy Air",4783,154.89,80.41,418.51,1.78,357.42,86745,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","DL","Delta Air Lines Inc.",617,30.93,1.41,30.58,0,19.08,3564,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","AS","Alaska Airlines Inc.",156,3.48,0,13.52,0,1,620,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","AS","Alaska Airlines Inc.",324,19.29,0,62.56,1,13.15,4640,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","AS","Alaska Airlines Inc.",231,10.37,0,9.78,0,5.85,889,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","OH","PSA Airlines Inc.",204,7.25,0,8.84,0,13.91,2057,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","EV","ExpressJet Airlines Inc.",766,19.7,2.68,86.36,0,70.27,19031,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","MQ","Envoy Air",5131,207.7,35.25,284.69,5.5,384.86,62932,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","OH","PSA Airlines Inc.",178,4.09,1,6.54,0,11.37,1378,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","9E","Endeavor Air Inc.",284,17.25,4.13,50.94,0,19.68,8429,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","NK","Spirit Air Lines",704,21.19,2.71,37.56,0,20.54,4322,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","B6","JetBlue Airways",171,26.06,1.77,12.46,0,15.72,4477,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","NK","Spirit Air Lines",737,11.15,3.56,91.22,1.13,27.95,13370,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","OH","PSA Airlines Inc.",170,11.51,0.77,11.11,0,18.62,2172,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","DL","Delta Air Lines Inc.",696,35.54,2.38,23.97,0,22.11,3964,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","OO","SkyWest Airlines Inc.",5467,220.69,24.93,523.17,1,643.21,112703,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","YX","Republic Airline",1406,41.29,1.6,176.47,0,56.64,17528,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","AS","Alaska Airlines Inc.",270,11.94,3.32,35.62,0,7.11,3644,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","AA","American Airlines Inc.",5565,304.34,85.41,747.29,0.91,510.05,123661,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","MQ","Envoy Air",4344,142.56,21.61,275.85,0.89,227.09,38273,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","B6","JetBlue Airways",194,15.22,0,21.34,0,10.44,2660,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","F9","Frontier Airlines Inc.",205,14.14,0,14.7,0,18.16,2628,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","9E","Endeavor Air Inc.",267,12.2,3,18.72,0,17.08,4457,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","VX","Virgin America",83,7.45,0,5,0,4.56,942,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","9E","Endeavor Air Inc.",94,6.42,0,8.54,0,11.04,1270,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","OO","SkyWest Airlines Inc.",6087,214.48,18.28,533.1,0,536.15,99531,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","9E","Endeavor Air Inc.",171,6.01,1,26.59,0,9.4,3935,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","AA","American Airlines Inc.",5206,222.09,13.34,229.34,0.36,201.88,35276,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","AS","Alaska Airlines Inc.",292,13.74,0,46.16,0,9.1,3388,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","AS","Alaska Airlines Inc.",114,1.59,0.76,21.08,0,2.57,1592,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","F9","Frontier Airlines Inc.",235,22.78,0.88,21.39,0,35.94,6865,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","F9","Frontier Airlines Inc.",240,27.47,4.16,34.4,0,40.97,9817,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","YX","Republic Airline",1723,41.95,5.69,125.17,0,72.19,11635,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","OH","PSA Airlines Inc.",181,10.79,0.41,12.47,0,9.33,1689,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","YX","Republic Airline",1476,49.21,12.02,210.93,0.02,102.82,29156,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","UA","United Air Lines Inc.",7247,313.66,80.63,626.35,0,571.36,128911,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","MQ","Envoy Air",4704,180.21,54.05,427.38,2.18,434.19,69063,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","F9","Frontier Airlines Inc.",225,23.47,0,23.28,0,29.24,5680,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","YX","Republic Airline",1202,37.91,3.49,99.66,1,70.94,11430,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","YX","Republic Airline",1647,58.01,11.48,208.48,1,122.03,33641,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","OH","PSA Airlines Inc.",189,8.27,0.08,11.93,0,12.72,2759,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","NK","Spirit Air Lines",870,14.53,13.02,226.92,0.36,22.18,20994,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","B6","JetBlue Airways",258,28.1,0.34,49.94,0.78,14.84,7087,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","9E","Endeavor Air Inc.",138,7.45,0,18.36,0,4.19,3076,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","MQ","Envoy Air",4786,135.09,14.34,244.56,1.17,191.84,33279,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","AA","American Airlines Inc.",5738,338.36,77.26,443.51,1.39,477.48,90530,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","EV","ExpressJet Airlines Inc.",666,20.33,1.58,90.5,0,57.59,15225,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","YX","Republic Airline",1570,47.17,6.4,87.24,0,85.19,15146,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","DL","Delta Air Lines Inc.",1033,44.29,5.78,122.17,0,56.76,18685,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","OH","PSA Airlines Inc.",193,6.73,1.28,11.44,0,12.55,3335,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","OH","PSA Airlines Inc.",197,7.02,1.33,9.42,0,7.23,2246,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","UA","United Air Lines Inc.",7419,256.03,21.58,551.38,0,350.01,69774,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","B6","JetBlue Airways",171,30.61,0.98,16.7,0,27.71,4691,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","F9","Frontier Airlines Inc.",197,7.47,1.08,7.37,0,17.07,3783,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","EV","ExpressJet Airlines Inc.",705,25.44,0.31,51.46,0,38.8,8631,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","MQ","Envoy Air",4249,165.36,48.47,338.13,1.58,354.45,62841,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","AS","Alaska Airlines Inc.",273,10.17,0,32.53,0,6.3,1690,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","UA","United Air Lines Inc.",6426,239.22,48.85,678.13,0,364.8,112216,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","OO","SkyWest Airlines Inc.",5925,247.52,40.77,523.09,0.31,945.31,167233,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","9E","Endeavor Air Inc.",104,8.62,0,13.2,0,9.18,2563,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","F9","Frontier Airlines Inc.",268,29.56,1.28,38.09,0,33.07,7158,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","B6","JetBlue Airways",177,28.66,0,11.27,0,19.07,3797,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","NK","Spirit Air Lines",700,25.58,3.26,81.19,0.03,31.93,15865,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","EV","ExpressJet Airlines Inc.",1241,44.92,5.23,144.05,0,102.8,26986,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","9E","Endeavor Air Inc.",110,7.29,0,11.12,0,7.59,2110,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","B6","JetBlue Airways",275,33.87,0.86,43.62,0.38,20.26,6996,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","MQ","Envoy Air",5370,154.86,39.51,280.24,1.78,454.62,71570,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","9E","Endeavor Air Inc.",117,6.42,0.65,12.86,0,6.07,1616,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","YX","Republic Airline",1186,34.2,6.83,91.83,0,48.14,8864,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","DL","Delta Air Lines Inc.",496,25.4,6.24,51.85,0,17.51,8471,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","OO","SkyWest Airlines Inc.",6391,180.24,17.53,412.16,1.16,467.91,78242,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","DL","Delta Air Lines Inc.",845,41,2.73,92.14,1,29.13,12243,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","OH","PSA Airlines Inc.",205,11.42,0.21,24.96,0,16.41,4278,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","AA","American Airlines Inc.",4941,201.51,15.64,176.8,2,213.04,36527,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","UA","United Air Lines Inc.",7484,348.59,76.52,939.64,0,641.26,165022,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","9E","Endeavor Air Inc.",36,0,0,3.82,0,1.18,897,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","OO","SkyWest Airlines Inc.",5077,170.08,24.06,477.85,0.39,463.61,95783,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","AA","American Airlines Inc.",5793,342.18,60.09,674.97,0.98,457.78,106854,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","F9","Frontier Airlines Inc.",235,19.95,0,24.86,0,20.19,5092,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","AS","Alaska Airlines Inc.",321,10.31,0.21,27.44,0,7.04,2407,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","DL","Delta Air Lines Inc.",899,46.77,1.54,62.8,0,31.88,6483,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","OO","SkyWest Airlines Inc.",5919,220.15,52.22,432.77,1,460.86,110534,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","AA","American Airlines Inc.",5203,211.23,22.41,286.82,2.63,231.91,44973,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","MQ","Envoy Air",5408,144.36,43.41,283.79,1.49,268.95,56983,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","NK","Spirit Air Lines",850,28.59,6.6,149.85,1,33.96,21535,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","UA","United Air Lines Inc.",5932,185.6,21.09,250.09,0,259.22,47925,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","OH","PSA Airlines Inc.",191,12.48,0.22,8.18,0,17.11,3165,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","F9","Frontier Airlines Inc.",204,12.48,0.64,13.63,0,16.25,4678,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","AS","Alaska Airlines Inc.",351,27.94,0,68.4,0,18.67,5931,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","OH","PSA Airlines Inc.",181,18.11,1.67,12.74,0,22.48,4522,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","UA","United Air Lines Inc.",6775,239.42,57.75,609.74,0,389.09,123705,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","OH","PSA Airlines Inc.",197,11.72,0.17,9.58,0,8.53,1736,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","DL","Delta Air Lines Inc.",772,37.18,9.9,116.98,0,24.93,15560,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","YX","Republic Airline",1572,30.73,9.2,120.89,0,100.18,19677,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","EV","ExpressJet Airlines Inc.",665,27.84,4.25,71.61,0,46.3,12263,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","B6","JetBlue Airways",239,18.59,0.22,44.4,0,10.79,5160,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","AA","American Airlines Inc.",5243,217.12,13.78,264.42,0.39,274.29,45321,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","UA","United Air Lines Inc.",4816,98.76,21.36,376.32,0,172.57,48817,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","UA","United Air Lines Inc.",6303,249.02,17.71,430.69,0,318.58,57088,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","MQ","Envoy Air",5015,245.64,69.71,438.5,0.68,610.47,114315,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","OO","SkyWest Airlines Inc.",6615,278.3,62.47,462.12,3.62,689.48,132859,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","DL","Delta Air Lines Inc.",547,14.69,13.61,37.72,0,13.98,5124,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","AA","American Airlines Inc.",5223,213.84,24.98,362.64,3.03,244.51,71021,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","NK","Spirit Air Lines",679,30.44,1.86,66.21,1,19.49,10135,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","AA","American Airlines Inc.",5458,248.69,45.98,604.73,0,346.61,91053,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","OO","SkyWest Airlines Inc.",6437,297.73,73.47,662.92,2.07,881.82,200841,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","B6","JetBlue Airways",245,23.29,1.09,52.53,0,14.09,7417,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","AA","American Airlines Inc.",5582,261.25,18.11,351.55,0.28,307.81,52051,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","AS","Alaska Airlines Inc.",350,19.86,0.51,36.15,0,14.49,3795,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","AS","Alaska Airlines Inc.",154,3.68,0,18.44,0,0.88,757,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","NK","Spirit Air Lines",894,41.75,10.5,219.36,0.57,70.82,30875,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","OO","SkyWest Airlines Inc.",6481,242.58,59.56,587.57,2.09,629.2,160302,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","NK","Spirit Air Lines",709,15.52,0.73,70.82,0,11.94,5478,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","NK","Spirit Air Lines",899,33.98,15.06,167.74,0.27,35.95,17720,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","DL","Delta Air Lines Inc.",932,47,10.89,174.74,0,58.37,28454,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","F9","Frontier Airlines Inc.",217,3.69,0,11.39,0,24.92,4181,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","DL","Delta Air Lines Inc.",757,24.28,2.19,43.23,0,13.3,3474,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","DL","Delta Air Lines Inc.",948,46.63,5.55,85.46,0,46.35,12293,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","UA","United Air Lines Inc.",6913,314.69,66.23,965.11,0.63,592.34,160776,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","OO","SkyWest Airlines Inc.",6085,169.14,17.54,317.6,1.65,360.08,63825,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","EV","ExpressJet Airlines Inc.",1199,51.81,2.21,141.79,0,158.19,40011,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","9E","Endeavor Air Inc.",224,7.74,2.32,15.57,0,13.37,2196,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","EV","ExpressJet Airlines Inc.",697,11.73,3.21,71.89,0,37.18,15962,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","YX","Republic Airline",1216,23.01,4.54,108.17,0.09,67.19,14689,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+4,"ORD","NK","Spirit Air Lines",814,6.45,0,121.1,0,2.45,8835,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","UA","United Air Lines Inc.",7126,198.51,50.22,568.42,0,299.85,94911,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","AS","Alaska Airlines Inc.",326,12.49,0.39,41.86,0,10.26,2633,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","F9","Frontier Airlines Inc.",253,17.18,0,13.52,0,15.3,2663,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","UA","United Air Lines Inc.",5657,144.04,12.33,205.94,0,205.69,35059,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","VX","Virgin America",69,4.5,0,5.86,0,0.64,415,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","EV","ExpressJet Airlines Inc.",835,21.45,2.16,90.88,0,45.51,9778,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","NK","Spirit Air Lines",774,17.56,2.75,63.82,0,21.86,6505,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+12,"ORD","MQ","Envoy Air",5747,179.63,42.61,335.4,1.41,598.95,67109,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","MQ","Envoy Air",5346,168.42,74.02,480.18,0.23,421.15,83834,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","9E","Endeavor Air Inc.",166,9.42,0.01,20.77,0,6.8,3725,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","B6","JetBlue Airways",242,30.54,2.17,52.22,0,17.06,7317,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+7,"ORD","F9","Frontier Airlines Inc.",248,21.78,2.17,18.07,0,59.98,7771,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","EV","ExpressJet Airlines Inc.",877,22.77,0.43,87.9,0,66.9,14594,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","B6","JetBlue Airways",200,20.88,0.91,29.54,0,11.67,6582,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","F9","Frontier Airlines Inc.",235,13.94,0,36.21,0,35.86,8516,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","B6","JetBlue Airways",148,20.77,1,33.49,0,8.74,3609,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+8,"ORD","OO","SkyWest Airlines Inc.",6427,316.51,59.62,692.08,3.49,846.3,201199,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","YX","Republic Airline",1716,50.01,16.06,195.22,0.21,93.49,26540,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","EV","ExpressJet Airlines Inc.",912,32.41,8.93,86.41,0,93.25,18107,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+11,"ORD","DL","Delta Air Lines Inc.",816,29.53,9.47,108.58,0,40.43,16713,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","AA","American Airlines Inc.",5310,268.42,48.08,400.19,3.28,305.03,78233,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","YX","Republic Airline",1484,54.53,13.32,133.68,0.05,101.42,19131,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+9,"ORD","YX","Republic Airline",1180,18.13,4.8,109.16,0,56.91,16695,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+3,"ORD","NK","Spirit Air Lines",800,16.98,2.36,66.36,1.94,33.37,6559,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+6,"ORD","EV","ExpressJet Airlines Inc.",622,27.25,4.3,115.27,0,38.19,23472,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+1,"ORD","UA","United Air Lines Inc.",5162,146.48,36.06,252.95,0,174.51,41708,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","OO","SkyWest Airlines Inc.",5462,217.49,52.31,515.47,0,609.72,128357,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+2,"ORD","AA","American Airlines Inc.",4644,170.65,25.64,322.15,1.54,255.02,51969,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+5,"ORD","EV","ExpressJet Airlines Inc.",615,17.98,7.92,71.57,0,31.53,12366,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
+10,"ORD","MQ","Envoy Air",5745,137.72,31.95,308.12,0.2,370.01,49635,"Chicago O'Hare International Airport","Chicago","IL",41.9796,-87.90446
